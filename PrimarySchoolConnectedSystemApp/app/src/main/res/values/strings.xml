@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">小学家校通</string>
+    <string name="title_home">Home</string>
+    <string name="title_me">我的</string>
+    <string name="exit_again">再按一次退出程序</string>
+    <string name="prefs_users">users</string>
+    <string name="request_read_write_permission">需要读写手机存储许可.</string>
+    <string name="request_camera_permission">需要摄像许可.</string>
+
+    <string name="app_company">2018 15070842</string>
+    <string name="app_net_support">由阿里云提供网络服务</string>
+    <string name="title_activity_welcome">欢迎</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_register">注册</string>
+    <string name="title_activity_pass_modify">密码修改</string>
+    <string name="title_activity_info_modify">信息修改</string>
+    <!-- Strings related to login -->
+    <string name="prompt_msg">消息</string>
+    <string name="prompt_uname">用户</string>
+    <string name="prompt_name">姓名</string>
+    <string name="prompt_nick">昵称</string>
+    <string name="prompt_account">用户</string>
+    <string name="prompt_password">密码</string>
+    <string name="prompt_password2">再次密码</string>
+    <string name="prompt_password_old">旧密码</string>
+    <string name="prompt_user_class">班级</string>
+    <string name="prompt_user_name">姓名</string>
+    <string name="prompt_user_nick">昵称</string>
+    <string name="prompt_user_xuehao">学号</string>
+    <string name="action_login">登录</string>
+    <string name="action_modify">修改</string>
+    <string name="action_login_short">登录</string>
+    <string name="action_modify_short">修改</string>
+    <string name="action_register">注册</string>
+    <string name="action_register_short">注册</string>
+    <string name="error_dup_uname">用户名已存在</string>
+    <string name="error_invalid">无效信息</string>
+    <string name="error_invalid_uname">This username is invalid</string>
+    <string name="error_dup_account">用户名已存在</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_invalid_password2">2次密码不同</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">栏目必填</string>
+    <string name="title_activity_send_msg">消息发送</string>
+    <string name="error_invalid_user">此用户无效</string>
+    <string name="error_invalid_account">此用户名无效</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
